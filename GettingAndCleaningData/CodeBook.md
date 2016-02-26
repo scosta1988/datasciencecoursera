@@ -1,18 +1,18 @@
 ## List and description of the variables
 
-* MeanBodyAcc-Time-XAxis
+1. MeanBodyAcc-Time-XAxis
 
     * Mean body acceleration minus gravity through time - X axis component
 
-* MeanBodyAcc-Time-YAxis
+2. MeanBodyAcc-Time-YAxis
 
     * Mean body acceleration minus gravity through time - Y axis component
 
-* MeanBodyAcc-Time-ZAxis
+3. MeanBodyAcc-Time-ZAxis
 
     * Mean body acceleration minus gravity through time - Z axis component
 
-* STDBodyAcc-Time-XAxis
+4. STDBodyAcc-Time-XAxis
 
     * Standard deviation of body acceleration minus gravity through time - X axis component
 
